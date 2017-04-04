@@ -1,0 +1,76 @@
+@charset "utf-8";
+/* CSS Document */
+*{
+	margin:10px;
+	padding:0px;
+}
+
+body {
+	background:#E4DBDB;
+	margin:0px;
+}
+
+h1{
+ font:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+ margin:15px; color:#353030;
+ background:#8C6263;
+}
+
+h2{
+	font:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+ margin:15px; color:#353030; 
+
+}
+
+.h2{
+ background:#8C6263;
+ 
+}
+
+
+
+#conteudo{
+	
+	border: 5px solid #F0E4E4;
+	padding:100px #5712C5;
+	width: 1200px;
+}
+
+.foto{
+   border:5px dotted #E9F5EE;
+   padding:15px;
+   width:300px;
+   
+}
+
+ul{
+
+
+margin:15px;
+
+}
+
+li{
+  margin-left:40px;
+  font:bold, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+  
+  
+}
+
+
+p {
+	font:20px "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	color:#736363;
+	margin: 30px;
+	text-align:justify;
+	width: 600px;
+	}
+	
+a:link{
+font:Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+color:#232020
+}
+
+a:visited{
+font:Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+color:#6B6464}
