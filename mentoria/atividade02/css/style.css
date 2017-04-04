@@ -12,14 +12,18 @@ body {
 
 h1{
  font:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
- margin:15px; color:#353030;
+ margin:15px; color:#E9D1D1;
  background:#8C6263;
 }
 
 h2{
 	font:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
- margin:15px; color:#353030; 
+ margin:15px; color:#E9D7D7; 
 
+}
+
+h1:hover{
+	background:#4CA5DD;	
 }
 
 
@@ -28,7 +32,7 @@ h2{
 }
 
 
-.2{
+.h2{
  background:#8C6263;
  
 }
