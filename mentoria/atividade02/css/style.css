@@ -22,7 +22,13 @@ h2{
 
 }
 
-.h2{
+
+.h2:hover{
+	background:#4CA5DD;	
+}
+
+
+.2{
  background:#8C6263;
  
 }
@@ -68,9 +74,19 @@ p {
 	
 a:link{
 font:Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
-color:#232020
+color:#232020;
 }
 
 a:visited{
 font:Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
-color:#6B6464}
+color:#6B6464;}
+
+
+
+
+a:hover{
+ color:#B1FF00;
+ text-decoration:none;
+ 
+ 	
+}
